@@ -1,0 +1,16 @@
+.poster__image {
+    max-height: 350px; 
+    width: auto;  
+    padding-top: 20px;
+    padding-right:30px; 
+    transition: 0.3s 
+}
+
+.highlight__image {
+    max-height: 900px; 
+    width: 100%; 
+}
+
+.poster__image:hover {
+    transform:  scale(1.2);
+}

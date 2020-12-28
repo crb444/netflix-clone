@@ -1,0 +1,18 @@
+.Row {
+    padding-Left: 30px; 
+}
+
+.Row__posters {
+    display: flex;
+    overflow:scroll;
+    margin-left: 0px;
+    padding-bottom: 40px;
+  
+}
+
+.Row__title {
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+
+}
